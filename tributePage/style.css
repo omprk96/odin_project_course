@@ -1,0 +1,56 @@
+body {
+	background-color: hsl(220, 5%, 78%);
+	
+}
+main {
+	font-family: 'Poppins', sans-serif;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+}
+h1 {
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 0;
+}
+h4 {
+	text-align: center;
+	margin-top: -5px;
+	margin-bottom: 40px;
+	color: hsl(220, 5%, 40%);
+}
+#img-div {
+	background-color: white;
+	max-width: 95%;
+	height: auto;
+	align-self: center;
+	justify-content: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+#tribute-info {
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+}
+.tributeinfo{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+#image {
+	max-width: 98%;
+	height: auto;
+	padding: 10px 10px 10px 10px;
+}
+#img-caption {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+a {
+	color: #477ca7;
+}
