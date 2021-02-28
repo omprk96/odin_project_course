@@ -25,10 +25,6 @@ h4 {
 	max-width: 95%;
 	height: auto;
 	align-self: center;
-	justify-content: center;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
 }
 #tribute-info {
 	display: flex;
